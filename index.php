@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="css\style.css">
+    <link rel="stylesheet" href="assets\css\style.css">
     <title>
         Curso PHP
     </title>
@@ -18,9 +18,11 @@
                 <div class="modulo verde">
                     <h3>Módulo 01 - Básico </h3>
                         <ul>
-                            <li><a href="exercicio.php">Exercício A</a></li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=comentarios">Comentarios PHP</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=desafio">Desafio</a></li>
                         </ul>
                 </div><div class="modulo vermelho">
                     <h3>Módulo 02 - </h3>
